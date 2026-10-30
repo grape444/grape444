@@ -1,65 +1,110 @@
-<img width="512" height="149" alt="image" src="https://github.com/user-attachments/assets/7694ca53-9ce7-4bbd-95a7-f56b49099f81" />
+<div align="center">
 
-# 궁극적으로, 나는 무엇을 탐구하는가?
+<img src="assets/hero-illustration.png" width="100%" alt="Pastel sunset study illustration" />
 
-높은 문제 분석력과 철학적 탐구력을 바탕으로, 문제를 정의하고 수학적으로 모델링하며 데이터를 분석해 솔루션을 도출하고자 하는 **가톨릭대학교 데이터사이언스학과·인공지능학과 복수전공생 양세움**입니다.
+# Hi, I'm **grape444** 👋
 
-## 💻 Programming: 구조와 기본기
+### 꾸준히 배우고 성장하는, 더 나은 내가 되기 위한 기록
 
-20살, C언어를 시작으로 프로그래밍의 구조와 기본기를 다졌습니다.
+수학과 이공계 지식을 기반으로 배우고 기록하며,<br>
+데이터와 AI를 향해 한 걸음씩 나아가는 학생입니다.
 
-이후 Python을 통해 파이썬다운 코드 작성 방식과 데이터 처리의 가능성을 배웠고, C++을 공부하며 객체지향 프로그래밍의 개념을 익혔습니다.
+[![Study](https://img.shields.io/badge/Study-bb9af7?style=for-the-badge&logo=bookstack&logoColor=white)](#-currently-learning)
+[![Mathematics](https://img.shields.io/badge/Mathematics-7aa2f7?style=for-the-badge)](#-currently-learning)
+[![Physics](https://img.shields.io/badge/Physics-82aaff?style=for-the-badge)](#-currently-learning)
+[![Data](https://img.shields.io/badge/Data-73daca?style=for-the-badge)](#-tech-stack)
+[![Always Learning](https://img.shields.io/badge/Always_Learning-f5a9d0?style=for-the-badge)](#-goals)
 
-21살, 이러한 학습을 학부 수업과 다양한 프로그래밍 문제에 적용하고 활용하며 알고리즘과 자료구조를 배웠고
-22살, 이론과 구현을 연결하고 있습니다.
+</div>
 
-## 🔎 Why Data Science?
+---
 
-저는 어려서부터 다양한 도메인의 문제를 탐구하는 것을 좋아했습니다.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-중학교 시절에는 철학에 빠졌고, 고등학교 2학년 때 이과에 진학하면서 하나의 질문을 품게 되었습니다.
+## 👤 About Me
 
-> **"과연 철학과 공학 사이에 있는 학문은 없을까?"**
+| | |
+|---|---|
+| 🎓 **현재** | 이공계 편입을 준비 중인 학생 |
+| 🎯 **관심 분야** | 수학, 물리학, 컴퓨터과학, 데이터 |
+| 🌱 **지향점** | 기초를 탄탄히 다지고 꾸준히 성장하기 |
+| ✨ **한마디** | 지금의 노력이 더 넓은 세상을 만날 수 있게 해줄 거니까! |
 
-추상적인 질문을 구체적인 문제로 정의하고, 수학적 모델과 데이터를 통해 현상을 이해하며, 분석을 바탕으로 해결책을 찾아가는 학문.
+## 📚 Currently Learning
 
-저는 그 가능성을 데이터사이언스에서 발견했습니다.
+| 분야 | 학습 내용 |
+|---|---|
+| 📐 편입수학 | 일변수·다변수 미적분, 선형대수, 공학수학 |
+| 🌎 영어 | TOEIC 800+ 목표 |
+| 💻 프로그래밍 | Python / C / C++ |
+| 🗄️ 데이터베이스 | SQL 및 SQLD 준비 |
+| 🔭 추가 학습 | 일반물리학 · 정보학 |
 
-## 📚 What I'm Working On
+## 🛠️ Tech Stack & Tools
 
-현재 학부 저학년으로서 세 가지 방향에 집중하고 있습니다.
+**Languages & Data**
 
-### 01. Mathematical Foundations
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Calculus: 미적분학과 편입수학 기초
-- Linear Algebra: 선형대수와 행렬 연산
-- Signals & Systems: 신호와 시스템(푸리에 급수 및 변환, 샘플링)
+**Tools**
 
-수학적 개념을 단순히 암기하는 것을 넘어, 현상을 표현하고 시스템을 분석하는 언어로 이해하고자 합니다.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-### 02. Machine Learning & Deep Learning
+## 🎯 Goals
 
-- Machine Learning: 데이터로부터 패턴을 학습하는 시스템(강화학습 등)
-- Deep Learning: 인공신경망을 활용한 표현 학습과 문제 해결(CNN 등)
+- [ ] 이공계 편입 성공하기
+- [ ] 수학적 기초 탄탄하게 다지기
+- [ ] Python, C/C++와 SQL 익히기
+- [ ] 데이터와 AI 분야의 지식 넓히기
+- [ ] 배운 것을 꾸준히 기록하고 프로젝트로 연결하기
 
-알고리즘을 공부하는 데 그치지 않고, 각 방법이 어떤 문제에 적합하며 결과를 어떻게 해석하고 검증할 수 있는지 탐구하고 있습니다.
+</td>
+<td width="38%" valign="top">
 
-### 03. Exploring Domains
+## 📊 GitHub Stats
 
-수학과 데이터사이언스를 실제 문제에 적용할 수 있는 다양한 분야(도메인)를 탐색하고 있습니다.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grape444&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-- **Science:** 수리물리학, 열역학, 단백질 구조
-- **Medical & Engineering:** 뇌공학, 생명공학
-- **Business:** 비즈니스 데이터 분석과 의사결정
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grape444&layout=compact&theme=tokyonight&hide_border=true)
 
-아직 하나의 도메인을 확정하기보다는, 다양한 분야의 문제를 경험하며 제가 깊이 탐구하고 싶은 영역을 찾아가는 중입니다.
+## 🗓️ Study Timeline
 
-## 🎯 Ultimately
+**2026.11 – 2027.02**  
+편입수학 · 영어 · 프로그래밍 기초
 
-제가 지향하는 것은 단순히 데이터를 처리하거나 모델을 구현하는 데 그치지 않는 것입니다.
+**2027.03 – 2027.06**  
+편입수학 및 공학수학 학습
 
-**문제의 본질을 탐구하고, 수학적으로 모델링하며, 데이터와 계산을 통해 근거를 찾고, 실제로 의미 있는 솔루션을 도출하는 것.**
+**2027.07 – 2027.12**  
+일반물리학 · 정보학 · 편입시험 준비
 
-그 과정을 꾸준히 학습하고 기록하며 성장하고자 합니다.
+**2027.12 – 2028.01**  
+편입시험 도전
 
-## 자세한 사항 및 참고자료 : https://app.notion.com/p/25c748df54ab80148496f574e9013865?v=37e748df54ab80098d54000c37809af9&source=copy_link
+## 📫 Contact
+
+원하는 소통 채널을 추가해 보세요!
+
+[![Email](https://img.shields.io/badge/Email-ffb4c8?style=flat-square&logo=gmail&logoColor=white)](mailto:0508wini@naver.com)
+
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="assets/skyline-footer.png" width="100%" alt="Pastel sunset skyline" />
+
+### 🌙 Better than yesterday.
+*천천히, 하지만 꾸준하게.*
+
+</div>
