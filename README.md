@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="assets/hero-illustration.png" width="100%" alt="Pastel sunset study illustration" />
-
-# Hi, I'm **grape444** 👋
+# 안녕하세요!!! 양세움입니다.👋
 
 ### 꾸준히 배우고 성장하는, 더 나은 내가 되기 위한 기록
 
 수학과 이공계 지식을 기반으로 배우고 기록하며,<br>
-데이터와 AI를 향해 한 걸음씩 나아가는 학생입니다.
+데이터와 AI를 향해 한 걸음씩 나아가는 대학생입니다.
 
 [![Study](https://img.shields.io/badge/Study-bb9af7?style=for-the-badge&logo=bookstack&logoColor=white)](#-currently-learning)
 [![Mathematics](https://img.shields.io/badge/Mathematics-7aa2f7?style=for-the-badge)](#-currently-learning)
