@@ -100,8 +100,6 @@
 
 <div align="center">
 
-<img src="assets/skyline-footer.png" width="100%" alt="Pastel sunset skyline" />
-
 ### 🌙 Better than yesterday.
 *천천히, 하지만 꾸준하게.*
 
